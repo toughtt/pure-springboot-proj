@@ -9,6 +9,7 @@
         <module>spring-bean-lifecircle</module>
         <module>parallel-springboot-proj</module>
         <module>api-recycle-call</module>
+        <module>useful-design-pattern</module>
     </modules>
 
     <parent>
